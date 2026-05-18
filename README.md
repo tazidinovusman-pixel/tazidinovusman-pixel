@@ -40,4 +40,4 @@
 ---
 
 ### 🔗 Ссылки
-* 🌍 Портфолио: [portfolio-khaki.vercel.app](https://portfolio-khaki.vercel.app)
+* 🌍 Портфолио: [portfolio-khaki.vercel.app](https://portflio-khaki.vercel.app/)
